@@ -1,1 +1,2 @@
-# Udacity---Data-Analyst
+#Project 1: Exploring Weather Trends#
+
